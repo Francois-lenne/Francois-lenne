@@ -7,6 +7,11 @@
 - 📫 How to reach me: francis.lenne.etu@univ-lille.fr
 
 
+### Stack technique 
+
+
+https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francois-lenne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
