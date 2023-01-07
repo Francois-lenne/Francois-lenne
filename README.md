@@ -10,15 +10,12 @@
 ### Stack technique 
 
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg
+![Ruby]https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg
 
 
 ## contribution
 
 
-
-
-![Snake animation](https://github.com/Francois-lenne/Francois-lenne/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Popular language 
