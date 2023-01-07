@@ -7,7 +7,7 @@
 - 📫 How to reach me: francis.lenne.etu@univ-lille.fr
 
 
-https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg
+https://github.com/Francois-lenne/Francois-lenne/blob/output/github-contribution-grid-snake.svg
 
 https://raw.githubusercontent.com/Francois-lenne/output/github-contribution-grid-snake.svg
 
