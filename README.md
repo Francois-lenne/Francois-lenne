@@ -24,5 +24,8 @@
 <a target="_blank" href="mailto:francois.lenne59@gmail.com">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a target="_blank" href="mailto:francois.lenne59@gmail.com">
+  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 
 
