@@ -9,8 +9,7 @@
 
 ### Stack technique 
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+[!icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg)
           
 
 
