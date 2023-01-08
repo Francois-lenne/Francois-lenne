@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)" />
+    <img src="[https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex]" />
   </a>
 </p>
 
