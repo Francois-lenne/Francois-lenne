@@ -12,9 +12,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)](https://skills.thijs.gg)
 
 
-## contribution
-
-
 
 
 ### Popular language 
