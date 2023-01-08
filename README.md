@@ -9,9 +9,8 @@
 
 ### Stack technique 
 
-[!icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg)
+[!icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg)
           
-
 
 ## contribution
 
