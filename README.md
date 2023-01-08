@@ -16,7 +16,7 @@
 ### How to reache me 
 
 <a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=33695401743">
   <img align="left" alt="Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -25,3 +25,7 @@
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
+
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
