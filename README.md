@@ -19,13 +19,10 @@
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=33695401743">
-  <img align="left" alt="Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="30px" src="https://commons.wikimedia.org/wiki/File:WhatsApp.svg" />
 </a>
 <a target="_blank" href="mailto:francois.lenne59@gmail.com">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
-
-https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
