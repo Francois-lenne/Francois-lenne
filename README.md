@@ -9,7 +9,7 @@
 
 ### Stack technique 
 
-[!icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg)
+[!google](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg)
           
 
 ## contribution
