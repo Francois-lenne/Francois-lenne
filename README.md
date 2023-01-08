@@ -9,7 +9,7 @@
 
 ### Stack technique 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp)](https://skills.thijs.gg)
 
           
 
