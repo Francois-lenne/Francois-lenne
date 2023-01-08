@@ -10,7 +10,8 @@
 ### Stack technique 
 
 
-![Ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg)
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+          
 
 
 ## contribution
