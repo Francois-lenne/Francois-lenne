@@ -12,12 +12,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)](https://skills.thijs.gg)
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex]" />
-  </a>
-</p>
-
 ## contribution
 
 
