@@ -10,7 +10,7 @@
 ### Stack technique 
 
 
-![Ruby]https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg
+![Ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg)
 
 
 ## contribution
