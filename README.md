@@ -17,6 +17,7 @@
 ### Precedent Company
 
 
+
 <a target="_blank" href="https://www.comrod.com/">
   <img align="center" alt="LinkdeIN" width="200px" src="https://www.comrod.com/wp-content/uploads/new-logo-web.png" />
 </a>
@@ -26,6 +27,7 @@
 <a target="_blank" href="https://www.laposte.fr/">
   <img align="center" alt="LinkdeIN" width="200px" src="https://cdn.worldvectorlogo.com/logos/la-poste-logo.svg" />
 </a>
+
 
 
 ### Actual Company :office:
