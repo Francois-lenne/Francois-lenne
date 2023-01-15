@@ -13,13 +13,12 @@
 ### Precendent Company
 
 
-<iframe src="triangle.svg" width="500" height="500" sandbox>
-    <img src="triangle.png" alt="Un triangle avec trois côtés inégaux" />
-</iframe>
 
 ### Actual Company :office:
 
-
+<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
 
 
