@@ -8,7 +8,11 @@
 
 ### Stack technique :computer:
 
+
+
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)](https://skills.thijs.gg)
+
+
 
 ### Precedent Company
 
@@ -23,7 +27,9 @@
   <img align="center" alt="LinkdeIN" width="200px" src="https://cdn.worldvectorlogo.com/logos/la-poste-logo.svg" />
 </a>
 
+
 ### Actual Company :office:
+
 
 <a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
   <img align="center" alt="LinkdeIN" width="300px" src="https://cdn.worldvectorlogo.com/logos/capgemini-logo-2017.svg" />
