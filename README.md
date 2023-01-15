@@ -37,4 +37,9 @@
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
-
+<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+  <img align="left" alt="LinkdeIN" width="300px" src="https://cdn.worldvectorlogo.com/logos/capgemini-logo-2017.svg" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+  <img align="left" alt="LinkdeIN" width="200" src="https://cdn.worldvectorlogo.com/logos/auchan-51597.svg" />
+</a>
