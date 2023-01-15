@@ -13,8 +13,9 @@
 ### Precendent Company
 
 
-
-<i class="fas fa-play-circle"></i>
+<iframe src="triangle.svg" width="500" height="500" sandbox>
+    <img src="triangle.png" alt="Un triangle avec trois côtés inégaux" />
+</iframe>
 
 ### Actual Company :office:
 
