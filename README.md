@@ -6,14 +6,14 @@
 - 💬 Ask me about Data Topic ! 
 
 
-### Stack technique 
+### Stack technique :computer:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)](https://skills.thijs.gg)
 
 
 
 
-### How to reache me :computer:
+### How to reache me 
 
 <a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
