@@ -19,7 +19,7 @@
 ### Actual Company :office:
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)](https://skills.thijs.gg)
+
 
 
 ### How to reache me :mailbox:
