@@ -12,10 +12,14 @@
 
 ### Precedent Company
 
-<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
-  <img align="center" alt="LinkdeIN" width="300px" src="https://www.damart.fr/media/logo/default/logo-damart.png" />
+
+<a target="_blank" href="https://www.comrod.com/">
+  <img align="center" alt="LinkdeIN" width="200px" src="https://www.comrod.com/wp-content/uploads/new-logo-web.png" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+<a target="_blank" href="https://www.damart.fr/">
+  <img align="center" alt="LinkdeIN" width="200px" src="https://www.damart.fr/media/logo/default/logo-damart.png" />
+</a>
+<a target="_blank" href="https://www.laposte.fr/">
   <img align="center" alt="LinkdeIN" width="200px" src="https://cdn.worldvectorlogo.com/logos/la-poste-logo.svg" />
 </a>
 
