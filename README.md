@@ -28,11 +28,11 @@
 ### How to reache me :mailbox:
 
 <a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="LinkdeIN" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a target="_blank" href="mailto:francois.lenne59@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="mailto:francois.lenne59@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Gmail" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
