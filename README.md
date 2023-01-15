@@ -10,9 +10,14 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex)](https://skills.thijs.gg)
 
-### Precendent Company
+### Precedent Company
 
-
+<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+  <img align="center" alt="LinkdeIN" width="300px" src="https://www.damart.fr/media/logo/default/logo-damart.png" />
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+  <img align="center" alt="LinkdeIN" width="200px" src="https://cdn.worldvectorlogo.com/logos/la-poste-logo.svg" />
+</a>
 
 ### Actual Company :office:
 
