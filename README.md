@@ -33,7 +33,7 @@
 ### Actual Company :office:
 
 
-<a target="_blank" href="https:/www.capgemini.com/fr-fr/">
+<a target="_blank" href="https://www.capgemini.com/fr-fr/">
   <img align="center" alt="LinkdeIN" width="300px" src="https://cdn.worldvectorlogo.com/logos/capgemini-logo-2017.svg" />
 </a>
 <a target="_blank" href="https://www.auchan-retail.com/fr/">
