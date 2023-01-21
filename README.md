@@ -33,10 +33,10 @@
 ### Actual Company :office:
 
 
-<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+<a target="_blank" href="https:/www.capgemini.com/fr-fr/">
   <img align="center" alt="LinkdeIN" width="300px" src="https://cdn.worldvectorlogo.com/logos/capgemini-logo-2017.svg" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/fran%C3%A7ois-lenne-5975b9174/">
+<a target="_blank" href="https://www.auchan-retail.com/fr/">
   <img align="center" alt="LinkdeIN" width="200px" src="https://cdn.worldvectorlogo.com/logos/auchan-51597.svg" />
 </a>
 
