@@ -10,7 +10,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex,azure)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex,azure, snowflake)](https://skills.thijs.gg)
 
 
 
