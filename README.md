@@ -39,7 +39,9 @@
 ### Actual Company :office:
 
 
-
+<a target="_blank" href="https://www.synergy.fr/">
+  <img align="center" alt="LinkdeIN" width="200px" src="https://www.synergy.fr/wp-content/uploads/2020/11/logo-synergy-france.jpg" />
+</a>
 
 
 ### How to reache me :mailbox:
