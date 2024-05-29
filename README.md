@@ -10,8 +10,11 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,md,git,gcp,bash,regex,azure)](https://skills.thijs.gg)
-
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,git,gcp,github,githubactions" />
+  </a>
+</p>
 
 
 ### Precedent Company
