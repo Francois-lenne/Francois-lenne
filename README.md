@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,docker,pandas,r,bash,git,gcp,snowflake,github,githubactions,pbi,vscode,githubcopilot,bigquery" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,docker,pandas,r,bash,git,gcp,snowflake,github,githubactions,vscode,githubcopilot,bigquery" />
   </a>
 </p>
 
