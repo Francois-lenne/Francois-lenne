@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Python, Google Cloud Platform, Azure
-- 🌱 I’m currently learning GCP, Airflow, Tableau
+- 🔭 I’m currently working on Python, Google Cloud Platform, Azure, AWS, Snowflake
 - 💬 Ask me about Data Topic ! 
 
 
